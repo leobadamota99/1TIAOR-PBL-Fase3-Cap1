@@ -12,7 +12,7 @@
 - [Leticia Grossi Dornelas - RM568172](https://www.linkedin.com/in/leticiagdornelas/)
 - [Leonardo Borges Alves da Mota - RM566939](https://www.linkedin.com/in/leonardo-borges-alves-da-mota-649703177/)  
 - [Bernardo Naves Doti Avelar - RM566867](https://www.linkedin.com/in/bernardo-doti/)  
-- [David Eduardo da Silva Correia - RM567525]()  
+- [David Eduardo da Silva Correia - RM567525](https://www.linkedin.com/in/eduardo-correia-29327631/)
 
 ## 👩‍🏫 Professores  
 ### Tutor(a)
