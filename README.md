@@ -9,16 +9,16 @@
 # FarmTech Solutions – Fase 3: Etapas de uma Máquina Agrícola  
 
 ## 👨‍💻 Integrantes
-- [Nome do integrante 1](https://www.linkedin.com/in/)  
-- [Nome do integrante 2](https://www.linkedin.com/in/)  
-- [Nome do integrante 3](https://www.linkedin.com/in/)  
-- [Nome do integrante 4](https://www.linkedin.com/in/)  
+- [Leticia Grossi Dornelas - RM568172](https://www.linkedin.com/in/leticiagdornelas/)
+- [Leonardo Borges Alves da Mota - RM566939](https://www.linkedin.com/in/leonardoborgesalvesdamota/)  
+- [Bernardo Naves Doti Avelar - RM566867](https://www.linkedin.com/in/bernardo-doti/)  
+- [David Eduardo da Silva Correia - RM567525]()  
 
 ## 👩‍🏫 Professores  
 ### Tutor(a)
-- Nome do tutor(a)  
+- Ana Cristina dos Santos 
 ### Coordenador(a)
-- Nome do coordenador(a)  
+- André Godoi Chiovato
 
 ---
 
@@ -127,7 +127,7 @@ Use **Ctrl + Enter** para rodar a query e visualizar os dados importados.
 
 ## 🗃 Histórico de Lançamentos  
 
-* 0.3.0 - 11/2025  
+* 0.1.0 - 12/11/2025  
   * Entrega da Fase 3 – Banco de Dados Oracle.  
 
 ---
