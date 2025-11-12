@@ -103,7 +103,7 @@ Use **Ctrl + Enter** para rodar a query e visualizar os dados importados.
 ![Figura 4](assets/print4_select.png)  
 
 **Link do vídeo –** (LINK).
-
+https://youtu.be/IkERE1Thqig
 ---
 
 ## 📁 Estrutura de Pastas  
