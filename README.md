@@ -35,7 +35,7 @@ A atividade reforça conceitos de **modelagem de dados, consultas SQL e integra�
 ## 🎯 Objetivo da Fase 3  
 
 - Criar e configurar uma conexão com o banco de dados Oracle.  
-- Importar o arquivo de dados da **Fase 2** (coleta dos sensores).  
+- Importar o arquivo de dados da **Fase 2** (coleta dos sensores - dados simulados).  
 - Executar consultas SQL (SELECT, filtros, ordenações).  
 - Documentar os passos seguidos e resultados obtidos.  
 - Organizar o repositório e o README de forma profissional.  
@@ -90,20 +90,42 @@ Use **Ctrl + Enter** para rodar a query e visualizar os dados importados.
 
 > Abaixo, insira as imagens referentes às etapas do processo.  
 
-**Figura 1 –** Configuração da conexão com o banco Oracle.  
-![Figura 1](assets/print1_conexao.png)  
+**Código C++–** Código utilizado para simular os dados dos sensores do Wokwi em um arquivo CSV.  
+![Código C++](src/prog1.ino)  
 
-**Figura 2 –** Importação do arquivo da Fase 2.  
-![Figura 2](assets/print2_importacao.png)  
+**Arquivo CSV –** Base de dados dos sensores com ID, UMIDADE, PH, LDR_ADC, N_STATUS, P_STATUS, K_STATUS, UMIDADE_BAIXA, PH_FORA_FAIXA, NUTRIENTE_BAIXO, BOMBA_LIGADA.  
+![Arquivo CSV](src/dados.csv)  
 
-**Figura 3 –** Visualização da tabela criada no Oracle SQL Developer.  
-![Figura 3](assets/print3_tabela.png)  
+**Figura 1 –** Importando os dados dos sensores no banco Oracle.  
+![Figura 1](assets/importando_dados.png)  
 
-**Figura 4 –** Execução das consultas SQL.  
-![Figura 4](assets/print4_select.png)  
+**Figura 2 –** Consulta geral no banco de dados no arquivo dos sensores.  
+![Figura 2](assets/consulta_geral.png)  
 
-**Link do vídeo –** (LINK).
+**Figura 3 –** Consulta realizando a contagem total de ativações da bomba.  
+![Figura 3](assets/ativacao_bomba.png)  
+
+**Figura 4 –** Consulta relacionando a contagem de ph fora da faixa com a boomba ligada.  
+![Figura 4](assets/pf_fora_faixa_bomba_ligada.png)  
+
+**Figura 5 –** Consulta mostrando a distribuição do pH e agrupando por faixa.  
+![Figura 5](assets/ph_agrupado_por_faixa.png)  
+
+**Figura 6 –** Consulta realizando a contagem de total de linhas importadas do arquivo CSV.  
+![Figura 6](assets/quantidade_registros.png)  
+
+**Figura 7 –** Consulta realizando estatísticas da Umidade, calculando média, valor máximo e mínimo.  
+![Figura 7](assets/umidade.png)  
+
+**Figura 8 –** Consulta realizando a média de umidade e pH por status do sensor N.  
+![Figura 8](assets/umidade_ph_N.png)  
+
+**Código SQL –** Consolidade dos códigos SQL utilizados para realizar as consultas no banco de dados.  
+![Código SQL](src/consolidado_consultas.sql)  
+
+**Link do vídeo –** Link do vídeo demonstrando a simulação dos dados dos sensores do Wokwi, importação no banco de dados e realização de consulta geral mostrando que o arquivo CSV integrou no banco corretamente.
 https://youtu.be/IkERE1Thqig
+
 ---
 
 ## 📁 Estrutura de Pastas  
