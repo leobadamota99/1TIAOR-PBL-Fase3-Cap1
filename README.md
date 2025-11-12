@@ -73,20 +73,20 @@ Clique em **Testar** → Se aparecer “Status: Sucesso”, clique em **Salvar**
 ### 3️⃣ Importar os dados da Fase 2  
 1. Clique com o botão direito em **Tabelas (Filtrado)** → **Importar Dados**  
 2. Selecione o arquivo da Fase 2 (.csv).  
-3. Defina o nome da tabela (exemplo: `DADOS_SENSORIAIS`).  
+3. Defina o nome da tabela (exemplo: `Sensores`).  
 4. Mantenha as configurações padrão e finalize a importação.  
 5. Aguarde a mensagem de sucesso.  
 
 ### 4️⃣ Executar consultas SQL  
 Após a importação, execute:  
 ```sql
-SELECT * FROM DADOS_SENSORIAIS;
+SELECT * FROM Sensores;
 ```
 Use **Ctrl + Enter** para rodar a query e visualizar os dados importados.  
 
 ---
 
-## 📸 Prints e Evidências  
+## 📸 Prints, Evidências e link do vídeo explicativo
 
 > Abaixo, insira as imagens referentes às etapas do processo.  
 
@@ -101,6 +101,8 @@ Use **Ctrl + Enter** para rodar a query e visualizar os dados importados.
 
 **Figura 4 –** Execução das consultas SQL.  
 ![Figura 4](assets/print4_select.png)  
+
+**Link do vídeo –** (LINK).
 
 ---
 
